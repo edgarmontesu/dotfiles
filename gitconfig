@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = edgar.montesu@gmail.com
+	name = Edgar Montes
